@@ -1,6 +1,6 @@
 img {
-  margin-top: 50px;
-  width: 400px;
+  margin-top: 100px;
+  width: 350px;
   float: right;
   border-radius: 50%
 }
@@ -12,8 +12,9 @@ img {
 }
 
 .title2 {
+  font-size:30px;
   font-family: Poppins;
-  color: #2E0854;
+  color: #8aacb8;
 }
 
 body {
@@ -21,7 +22,7 @@ body {
 }
 
 li {
-  font-size: 20px;
+  font-size: 25px;
   font-family: Questrial;
 }
 
