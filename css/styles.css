@@ -1,4 +1,5 @@
 img {
+  margin-top: 50px;
   width: 400px;
   float: right;
   border-radius: 50%
@@ -6,9 +7,29 @@ img {
 
 .title {
   color: white;
-  font-size: 80px;
-  font-family: Lobster
+  font-size: 90px;
+  font-family: Lobster;
 }
+
+.title2 {
+  font-family: Poppins;
+}
+
 body {
-  background-color: #d3d3d3;
+  background-color: #808080;
+}
+
+li {
+  font-size: 20px;
+  font-family: Questrial;
+}
+
+a {
+  color: white;
+}
+
+.sublist {
+  font-size: 15px;
+  font-family: Poppins;
+  list-style-type: none;
 }
