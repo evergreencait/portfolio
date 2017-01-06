@@ -52,10 +52,17 @@ a {
   font-size: 40px;
 }
 
+.section2 {
+  font-family: Lobster;
+  color: white;
+  font-size: 30px;
+}
+
 .gridlist li{
   color: black;
   font-size: 15px;
   font-family: Poppins;
+  padding-bottom: 20px;
 
 }
 .grid {
@@ -64,20 +71,21 @@ a {
 }
 
 .gridimg1 {
-  width: 200px;
+  width: 100px;
   border-radius: 10%;
-  padding-bottom: 200px;
+  padding-bottom: 33px;
 }
 
 .gridimg2 {
-  width: 200px;
+  width: 100px;
   border-radius: 10%;
+  padding-bottom: 12px;
 }
 
 .gridimg3 {
-  width: 200px;
-  border-radius: 10%;
-  padding-bottom: 70px
+  width: 120px;
+  padding-bottom: 50px
+  border-radius: 50%;
 }
 
 .listlnk {

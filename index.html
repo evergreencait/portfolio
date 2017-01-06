@@ -1,12 +1,85 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link href="css/bootstrap.css" rel ="stylesheet" type="text/css" media="all">
+    <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
     <meta charset="utf-8">
     <title>Caitlin Hines</title>
   </head>
+<!-- Main container -->
+<div class="container">
   <body>
-    <h1>Caitlin Hines</h1>
-      <h2>Front-end Developer</h2>
-      <img src="images/pic.jpg" alt="A picture of Caitlin on a bike"
+    <!-- Title div -->
+    <div class="page-header">
+      <img src="images/pic.jpg" alt="A picture of Caitlin on a bike">
+    <h1 class="title">Caitlin Hines</h1>
+      <h2 class="title2">Front-end Web Developer</h2>
+    </div>
+    <!-- Openning parapgram div -->
+    <div class="page-header">
+      <p>Seattle native and nature enthusiast. I am currently enrolled in Epicodus and on track to learn: HTML, CSS, Javascript, C#, and .NET. I am excited to learn more languages and start a career in web development! Feel free to <a href="mailto:caitlinhines@me.com" target="_top" class="listlnk">email me!</a></p>
+    </div>
+    <!-- End of title div -->
+    <!-- List div -->
+    <div class= "container">
+      <h3 class= "bg-primary section2">Projects</h3>
+      <ul>
+        <li>A resort site about the <a href="https://github.com/evergreencait/ivorycoast">Ivory Coast</a>.</li>
+          <ul>
+            <li class= "sublist">This site uses bootstrap grids.</li>
+          </ul>
+        <li>A site about an <a href="https://github.com/evergreencait/animalshelter">animal shelter</a>.</li>
+          <ul>
+            <li class= "sublist">This site uses basic HTML and CSS. It showcases: cascading, styling, and media queries.</li>
+          </ul>
+        <li>A blog about my classmate's <a href="https://github.com/evergreencait/Junebug">cat</a>.</li>
+          <ul>
+            <li class= "sublist">This site uses basic HTML and CSS. It showcases: cascading, styling, and media queries.</li>
+          </ul>
+        <li>A funny website about a fake <a href="https://github.com/evergreencait/resort-website">resort</a>.</li>
+          <ul>
+            <li class= "sublist">This site uses basic HTML and some CSS styling.</li>
+          </ul>
+    </div>
+    <!-- List div -->
+    <!-- Grid div -->
+    <div class="container">
+      <h3 class ="bg-primary section2">About Me</h3>
+      <div class="row">
+        <div class="col-md-4 grid section">Education:
+          <ul class="gridlist">
+            <li>BA in Psychology from Western Washington University</li>
+            <li>Epicodus</li>
+          <img src="images/western1.png" alt="a picture of Western's logo" class= "gridimg1">
+          <img src="images/epi.png" alt="a picture of Epicodus' logo" class= "gridimg1">
+        </ul>
+        </div>
+        <div class="col-md-4 grid section">Job Experience:
+          <ul class="gridlist">
+            <li>5 years with <a href="http://apple.com" class="listlnk">Apple Inc.</a> :Sales and leadership.</li>
+            <li>2.5 years with <a href="http://rover.com" class="listlnk">Rover.com</a>: Customer Service and recruiting</li>
+          <img src="images/rover.png" alt="a picture of Rover.com's logo" class= "gridimg2">
+          <img src="images/apple.png" alt="a picture of Apple's logo" class= "gridimg2">
+        </ul>
+        </div>
+        <div class="col-md-4 grid section">Hobbies
+          <ul class="gridlist">
+            <li>Snowboarding</li>
+            <li>Rock climbing</li>
+            <li>Hiking</li>
+            <li>Exploring the city and new restaurants</li>
+            <img src="images/snow.jpg" alt="a picture of snowboarding" class="gridimg3">
+            <img src="images/seattle.jpg" alt="a picture of Pike Place Market" class="gridimg3">
+          </ul>
+        </div>
+    </div>
+  </div>
+    <!-- End of grid div-->
   </body>
 </html>
+</div>
+<!-- End of main container -->
