@@ -1,0 +1,14 @@
+img {
+  width: 400px;
+  float: right;
+  border-radius: 50%
+}
+
+.title {
+  color: white;
+  font-size: 80px;
+  font-family: Lobster
+}
+body {
+  background-color: #d3d3d3;
+}
