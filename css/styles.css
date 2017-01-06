@@ -1,11 +1,15 @@
 img {
   border: 5px solid white;
-  margin-top: 100px;
+  margin-top: 20px;
   width: 350px;
   float: right;
   border-radius: 50%
 }
+p {
+  font-size: 15px;
+  color: white;
 
+}
 .title {
   color: white;
   font-size: 100px;
@@ -16,12 +20,12 @@ img {
 .title2 {
   font-size:30px;
   font-family: Poppins;
-  color: #8aacb8;
+  color: #9AC0CD;
   text-align: center;
 }
 
 body {
-  background-color: #808080;
+  background-color: #9C9C9C;
 }
 
 li {
@@ -38,13 +42,13 @@ a {
   font-size: 15px;
   font-family: Poppins;
   list-style-type: none;
-  color: #B3B3B3;
+  color: #CFCFCF;
 }
 
 .section {
   font-family: Lobster;
   color: #8aacb8;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .gridlist li{
@@ -64,5 +68,5 @@ a {
 }
 
 .listlnk {
-  color: #5CACEE;
+  color: #9AC0CD;
 }
