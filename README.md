@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple html website for Caitlin's portfolio. It contains sections including: languages to be learned in Epicodus class, links to projects completed, and information about Caitlin. This website is an exercise in creating an HTML site that contains CSS styling as well as Bootstrap. _
+This is a simple html website for Caitlin's portfolio. It contains sections including: languages to be learned in Epicodus class, links to projects completed, and information about Caitlin. This website is an exercise in creating an HTML site that contains CSS styling as well as Bootstrap.
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _This is a simple html website for Caitlin's portfolio. It contains sections inc
 
 ## Technologies Used
 
-_HTML,CSS,BOOTSTRAP_
+HTML,CSS,BOOTSTRAP
 
 ### License
 
