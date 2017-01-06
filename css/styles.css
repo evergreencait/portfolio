@@ -13,11 +13,9 @@ p {
 }
 .title {
   color: white;
-  font-size: 120px;
-  font-family: Lobster;
+  font-size: 100px;
+  font-family: Muli;
   text-align: center;
-  text-shadow:0 0 20px black;
-
 }
 
 .title2 {
@@ -42,7 +40,12 @@ a {
   color: white;
   text-shadow: 0 0 1px black;
 }
-
+.letter {
+  color: #00688B;
+  font-size: 150px;
+  font-family: Muli;
+  text-align: center;
+}
 .sublist {
   font-size: 15px;
   font-family: Poppins;
