@@ -1,12 +1,12 @@
 img {
   border: 5px solid white;
   margin-top: 20px;
-  width: 350px;
+  width: 375px;
   float: right;
   border-radius: 50%
 }
 p {
-  font-size: 16px;
+  font-size: 17px;
   color: white;
   margin: auto;
 
@@ -14,7 +14,7 @@ p {
 .title {
   color: white;
   font-size: 100px;
-  font-family: Muli;
+  font-family: Permanent Marker;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ a {
 .letter {
   color: #00688B;
   font-size: 150px;
-  font-family: Muli;
+  font-family: Permanent Marker;
   text-align: center;
 }
 .sublist {
@@ -54,13 +54,13 @@ a {
 }
 
 .section {
-  font-family: Lobster;
+  font-family: Permanent Marker;
   color: #00688B;
   font-size: 40px;
 }
 
 .section2 {
-  font-family: Lobster;
+  font-family: Permanent Marker;
   color: white;
   font-size: 25px;
   text-shadow: 0 0 3px black;
