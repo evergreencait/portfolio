@@ -15,7 +15,7 @@ This is a simple html website for Caitlin's portfolio. It contains sections incl
 
 ## Technologies Used
 
-_HTML,CSS,BOOTSTRAP_
+HTML,CSS,BOOTSTRAP
 
 ### License
 
