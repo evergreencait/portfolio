@@ -24,6 +24,7 @@ body {
 li {
   font-size: 25px;
   font-family: Questrial;
+  font-weight: bold;
 }
 
 a {
@@ -34,4 +35,21 @@ a {
   font-size: 15px;
   font-family: Poppins;
   list-style-type: none;
+  color: #B3B3B3;
+}
+
+.section {
+  font-family: Lobster;
+  color: #8aacb8;
+  font-size: 30px;
+}
+
+.gridlist li{
+  color: white;
+  font-size: 20px;
+  list-style-type: none;
+}
+.grid {
+  border: 2px solid white;
+  padding-bottom: 300px;
 }
