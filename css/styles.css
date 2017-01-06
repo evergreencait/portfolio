@@ -16,19 +16,20 @@ p {
   font-size: 120px;
   font-family: Lobster;
   text-align: center;
-  text-shadow: 0 0 3px black;
+  text-shadow:0 0 20px black;
+
 }
 
 .title2 {
   font-size:30px;
   font-family: Poppins;
-  color: #9AC0CD;
+  color: black;
   text-align: center;
   text-shadow: 0 0 1px black;
 }
 
 body {
-  background-color:#A1A1A1;
+  background-color: #74AFAD;
 }
 
 li {
@@ -59,6 +60,7 @@ a {
   font-family: Lobster;
   color: white;
   font-size: 30px;
+  text-shadow: 0 0 3px black;
 }
 
 .gridlist li{
@@ -69,7 +71,7 @@ a {
 
 }
 .grid {
-  border: 15px double #9AC0CD;
+  border: 15px double #00688B;
   background-color: white;
 }
 
@@ -92,5 +94,5 @@ a {
 }
 
 .listlnk {
-  color: #9AC0CD;
+  color: #00688B;
 }
