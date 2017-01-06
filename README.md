@@ -1,6 +1,6 @@
 # Portfolio: Caitlin Hines
 
-#### HTML/CSS/BOOTSTRAP independent program for Epicodus}, 01.06.17
+#### HTML/CSS/BOOTSTRAP independent program for Epicodus, 01.06.17
 
 #### By _**Caitlin Hines**_
 
