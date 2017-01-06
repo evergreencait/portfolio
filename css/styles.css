@@ -45,11 +45,20 @@ a {
 }
 
 .gridlist li{
-  color: white;
-  font-size: 20px;
-  list-style-type: none;
+  color: black;
+  font-size: 15px;
+  font-family: Poppins;
+
 }
 .grid {
-  border: 2px solid white;
-  padding-bottom: 300px;
+  border: 15px double #8aacb8;
+  background-color: white;
+}
+
+.gridimg {
+  width: 200px;
+}
+
+.listlnk {
+  color: #5CACEE;
 }
